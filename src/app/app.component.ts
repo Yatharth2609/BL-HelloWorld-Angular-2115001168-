@@ -9,6 +9,6 @@ export class AppComponent {
   title = 'HelloWorld';
 
   ngOnInit(): void {
-    this.title = "Hello from BridgeLabz."
+    this.title = "Hello from BridgeLabz!!!."
   }
 }
